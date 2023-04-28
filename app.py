@@ -21,7 +21,7 @@ st.set_option('client.showErrorDetails', False)
 # Setting page title and header
 st.set_page_config(page_title="CODE CHAT", page_icon=":robot_face:")
 st.markdown("<h1 style='text-align: center; color: red;'>CODE CHAT</h1>", unsafe_allow_html=True)
-st.markdown("<h3 style='text-align: center;'>Perform queries on DataRobot AI Accelerators</h1>", unsafe_allow_html=True)
+st.markdown("<h3 style='text-align: center;'>Perform queries on your GIT REPO</h1>", unsafe_allow_html=True)
 
 # Initialise session state variables
 if 'generated' not in st.session_state:
