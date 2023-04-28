@@ -38,7 +38,7 @@ pip install -r requirements.txt
 - Configuration steps
 
 Enter the absolute of the git repository you have on your local disk, on line number 80.
-    REPO_PATH = '<Enter absolute path of your local git repo>'
+REPO_PATH = '<Enter absolute path of your local git repo>'
 
 
 - How to run the project
