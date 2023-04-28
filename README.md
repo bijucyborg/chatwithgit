@@ -1,4 +1,4 @@
-# Project Name
+# Chat with Git
 
 Chat with Git is a prototype application written to demonstrate the power of embeddings and vector databases.
 The folowing python libraries are used
@@ -26,13 +26,14 @@ Include instructions on how to install your project. You can include the followi
 ```console
 cd chatwithgit
 pipenv shell
+```
 
 3. Install the pre-requisite 
 WARNING: Will take considerable time to install all the dependent packages.
 
 ```console
 pip install -r requirements.txt
-
+```
 
 - Configuration steps
 
@@ -45,7 +46,7 @@ Enter the absolute of the git repository you have on your local disk, on line nu
 cd chatwithgit
 pipenv shell
 streamlit run app.py
-
+```
 
 ## License
 
